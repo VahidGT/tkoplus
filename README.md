@@ -17,3 +17,9 @@ To display the available colors in tkoplus:
 
      from tkoplus import colors
      print(colors)
+
+To receive the package:
+
+     pip install tkoplus
+
+*Note that this package is only applicable on Windows 11 and Python 3.11+
