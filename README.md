@@ -14,5 +14,6 @@ To change the color of the text in the title bar:
 Note that color codes cannot be used in the "color" field.
 
 To display the available colors in tkoplus:
-rom tkoplus import colors
-print(colors)
+
+     from tkoplus import colors
+     print(colors)
